@@ -1,0 +1,56 @@
+.salomlashuv{
+    background-color: cornsilk;
+  color: black;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 3px solid black;
+  padding: 0px;
+}
+.rasm{
+border-radius:  20px;
+padding: 0px;
+border:  10px solid black;
+}
+
+.general-info{
+    color: black ;
+  background-color: #CFD2CF;
+ font-family: sans-serif;
+ border: 5px solid rgb(104, 155, 175);
+}
+
+
+.haqida{
+  background-color: #FA9494;
+color: black;
+font-size: 25px;
+font-style: italic;
+padding: 0px;
+margin: 0px;
+border: 5px solid saddlebrown;
+}
+
+.treyler{
+  padding: 0px;
+  margin: 0px;
+  text-align: center;
+  background-color: #EB1D36;
+}
+
+.yuklash-qismi{
+  text-align: center;
+  background-color: aquamarine;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.hikoya{
+  background-color: chartreuse;
+font-size: 25px;
+font-family: monospace;
+border: 5px solid rgb(230, 157, 157);
+}
+.rek-qismi{
+border: 5px solid red;
+text-align: center;
+background-color: antiquewhite;
+}
